@@ -1,3 +1,3 @@
-# Rewriting inefficient algorithms
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T19:41:52.233Z_
+_Last updated: 2025-02-16T19:42:22.267Z_
