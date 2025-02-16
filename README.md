@@ -1,3 +1,3 @@
-# Adding new features
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T12:06:45.159Z_
+_Last updated: 2025-02-16T12:07:14.917Z_
