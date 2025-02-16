@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Enhancing mobile responsiveness
 
-_Last updated: 2025-02-16T11:12:43.377Z_
+_Last updated: 2025-02-16T11:13:13.392Z_
