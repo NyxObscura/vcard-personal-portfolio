@@ -1,3 +1,3 @@
-# Adding better exception handling
+# Adding proper error messages
 
-_Last updated: 2025-02-16T15:21:47.890Z_
+_Last updated: 2025-02-16T15:22:17.888Z_
