@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Enhancing webhook reliability
 
-_Last updated: 2025-02-16T08:21:08.414Z_
+_Last updated: 2025-02-16T08:21:38.555Z_
