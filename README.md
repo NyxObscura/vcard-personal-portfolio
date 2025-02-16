@@ -1,3 +1,3 @@
-# Refactoring redundant functions
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T20:02:22.549Z_
+_Last updated: 2025-02-16T20:02:52.522Z_
