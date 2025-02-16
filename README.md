@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T19:31:52.107Z_
+_Last updated: 2025-02-16T19:32:22.120Z_
