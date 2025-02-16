@@ -1,3 +1,3 @@
-# Updating configuration files
+# Updating API request parameters
 
-_Last updated: 2025-02-16T08:20:38.557Z_
+_Last updated: 2025-02-16T08:21:08.414Z_
