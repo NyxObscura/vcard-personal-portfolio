@@ -1,3 +1,3 @@
-# Updating outdated references
+# Simplifying function logic
 
-_Last updated: 2025-02-16T14:52:47.575Z_
+_Last updated: 2025-02-16T14:53:17.641Z_
