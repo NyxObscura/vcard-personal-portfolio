@@ -1,3 +1,3 @@
-# Improving error handling
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-16T11:02:13.232Z_
+_Last updated: 2025-02-16T11:02:43.220Z_
