@@ -1,3 +1,3 @@
-# Reducing redundant operations
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T17:12:19.768Z_
+_Last updated: 2025-02-16T17:12:49.812Z_
