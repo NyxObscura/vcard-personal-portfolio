@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Improving API documentation
 
-_Last updated: 2025-02-16T16:54:49.492Z_
+_Last updated: 2025-02-16T16:55:19.467Z_
