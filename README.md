@@ -1,3 +1,3 @@
-# Improving database indexing
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-16T07:31:37.523Z_
+_Last updated: 2025-02-16T07:32:07.565Z_
