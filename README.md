@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T11:11:43.374Z_
+_Last updated: 2025-02-16T11:12:13.395Z_
