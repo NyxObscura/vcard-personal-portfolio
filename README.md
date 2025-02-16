@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Improving session handling
 
-_Last updated: 2025-02-16T11:48:43.968Z_
+_Last updated: 2025-02-16T11:49:13.943Z_
