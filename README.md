@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Refactoring role-based access control
 
-_Last updated: 2025-02-16T14:06:46.521Z_
+_Last updated: 2025-02-16T14:07:16.554Z_
