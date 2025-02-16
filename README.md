@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T12:27:44.981Z_
+_Last updated: 2025-02-16T12:28:15.121Z_
