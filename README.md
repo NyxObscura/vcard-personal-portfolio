@@ -1,3 +1,3 @@
-# Updating changelog
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T17:25:49.890Z_
+_Last updated: 2025-02-16T17:26:20.289Z_
