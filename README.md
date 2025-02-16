@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Refactoring database queries
 
-_Last updated: 2025-02-16T10:59:43.320Z_
+_Last updated: 2025-02-16T11:00:13.193Z_
