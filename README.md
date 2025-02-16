@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T01:21:25.031Z_
+_Last updated: 2025-02-16T01:21:55.452Z_
