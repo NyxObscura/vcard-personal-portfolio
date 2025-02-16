@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Reformatting markdown files
 
-_Last updated: 2025-02-16T11:03:43.233Z_
+_Last updated: 2025-02-16T11:04:13.290Z_
