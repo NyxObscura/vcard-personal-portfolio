@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Updating API request parameters
 
-_Last updated: 2025-02-16T18:11:50.801Z_
+_Last updated: 2025-02-16T18:12:20.768Z_
