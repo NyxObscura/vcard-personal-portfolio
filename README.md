@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T01:19:55.073Z_
+_Last updated: 2025-02-16T01:20:24.898Z_
