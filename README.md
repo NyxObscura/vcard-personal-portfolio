@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Updating outdated references
 
-_Last updated: 2025-02-16T12:30:45.237Z_
+_Last updated: 2025-02-16T12:31:15.145Z_
