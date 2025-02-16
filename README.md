@@ -1,3 +1,3 @@
-# Fixing layout inconsistencies
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T22:11:24.728Z_
+_Last updated: 2025-02-16T22:11:54.753Z_
