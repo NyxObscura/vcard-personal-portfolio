@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T05:11:01.959Z_
+_Last updated: 2025-02-16T05:11:31.970Z_
