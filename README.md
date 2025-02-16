@@ -1,3 +1,3 @@
-# Adding proper error messages
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T14:56:47.685Z_
+_Last updated: 2025-02-16T14:57:17.783Z_
