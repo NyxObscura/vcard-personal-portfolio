@@ -1,3 +1,3 @@
-# Improving session handling
+# Refactoring network request handling
 
-_Last updated: 2025-02-16T14:04:16.496Z_
+_Last updated: 2025-02-16T14:04:46.507Z_
