@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Refactoring component structure
 
-_Last updated: 2025-02-17T07:41:22.441Z_
+_Last updated: 2025-02-17T07:41:52.409Z_
