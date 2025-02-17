@@ -1,3 +1,3 @@
-# Improving database indexing
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T18:57:50.044Z_
+_Last updated: 2025-02-17T18:58:20.177Z_
