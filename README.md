@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T08:34:05.868Z_
+_Last updated: 2025-02-17T08:34:35.941Z_
