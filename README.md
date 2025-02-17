@@ -1,3 +1,3 @@
-# Reformatting markdown files
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T14:18:15.897Z_
+_Last updated: 2025-02-17T14:18:48.870Z_
