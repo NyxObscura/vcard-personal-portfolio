@@ -1,3 +1,3 @@
-# Improving session handling
+# Performance improvements
 
-_Last updated: 2025-02-17T21:21:52.584Z_
+_Last updated: 2025-02-17T21:22:22.764Z_
