@@ -1,3 +1,3 @@
-# Improving application startup time
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T13:08:52.138Z_
+_Last updated: 2025-02-17T13:09:17.855Z_
