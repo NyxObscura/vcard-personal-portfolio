@@ -1,3 +1,3 @@
-# Updating CI/CD pipeline
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T16:23:48.556Z_
+_Last updated: 2025-02-17T16:24:18.521Z_
