@@ -1,3 +1,3 @@
-# Refactor README.md
+# Optimizing SQL queries
 
-_Last updated: 2025-02-17T18:56:20.281Z_
+_Last updated: 2025-02-17T18:56:50.209Z_
