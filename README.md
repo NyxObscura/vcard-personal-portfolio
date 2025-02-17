@@ -1,3 +1,3 @@
-# Improving database indexing
+# Adding better exception handling
 
-_Last updated: 2025-02-17T17:10:18.460Z_
+_Last updated: 2025-02-17T17:10:48.417Z_
