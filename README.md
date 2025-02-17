@@ -1,3 +1,3 @@
-# Improving API documentation
+# Reducing redundant operations
 
-_Last updated: 2025-02-17T17:36:18.775Z_
+_Last updated: 2025-02-17T17:36:48.813Z_
