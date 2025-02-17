@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Reformatting markdown files
 
-_Last updated: 2025-02-17T15:56:18.230Z_
+_Last updated: 2025-02-17T15:56:48.150Z_
