@@ -1,3 +1,3 @@
-# Adding proper error messages
+# Updating API request parameters
 
-_Last updated: 2025-02-17T21:47:23.209Z_
+_Last updated: 2025-02-17T21:47:53.250Z_
