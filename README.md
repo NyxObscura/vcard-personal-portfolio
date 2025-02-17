@@ -1,3 +1,3 @@
-# Fixing inconsistent naming conventions
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T07:27:52.208Z_
+_Last updated: 2025-02-17T07:28:22.207Z_
