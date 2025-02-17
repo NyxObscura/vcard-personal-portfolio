@@ -1,3 +1,3 @@
-# Optimizing README file
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T15:32:48.633Z_
+_Last updated: 2025-02-17T15:33:17.171Z_
