@@ -1,3 +1,3 @@
-# Updating outdated references
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T05:39:49.590Z_
+_Last updated: 2025-02-17T05:40:19.608Z_
