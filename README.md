@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Enhancing offline support
 
-_Last updated: 2025-02-17T07:47:22.528Z_
+_Last updated: 2025-02-17T07:47:52.620Z_
