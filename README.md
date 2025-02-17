@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-17T22:01:53.717Z_
+_Last updated: 2025-02-17T22:02:23.565Z_
