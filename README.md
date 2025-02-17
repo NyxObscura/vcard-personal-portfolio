@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Adding missing documentation
 
-_Last updated: 2025-02-17T13:56:15.517Z_
+_Last updated: 2025-02-17T13:56:45.821Z_
