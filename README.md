@@ -1,3 +1,3 @@
-# Small code refactor
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T14:50:46.219Z_
+_Last updated: 2025-02-17T14:51:16.194Z_
