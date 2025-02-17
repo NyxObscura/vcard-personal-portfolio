@@ -1,3 +1,3 @@
-# Adding better exception handling
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T18:04:49.409Z_
+_Last updated: 2025-02-17T18:05:19.254Z_
