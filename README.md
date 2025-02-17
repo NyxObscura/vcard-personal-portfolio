@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Enhancing offline support
 
-_Last updated: 2025-02-17T06:25:21.151Z_
+_Last updated: 2025-02-17T06:25:51.056Z_
