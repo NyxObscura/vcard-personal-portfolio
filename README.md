@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T16:46:48.897Z_
+_Last updated: 2025-02-17T16:47:18.881Z_
