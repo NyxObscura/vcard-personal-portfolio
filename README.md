@@ -1,3 +1,3 @@
-# Optimizing caching mechanism
+# Reducing memory usage
 
-_Last updated: 2025-02-17T09:52:54.020Z_
+_Last updated: 2025-02-17T09:53:24.060Z_
