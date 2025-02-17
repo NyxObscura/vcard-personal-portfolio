@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing image rendering issues
 
-_Last updated: 2025-02-17T09:18:38.317Z_
+_Last updated: 2025-02-17T09:19:12.616Z_
