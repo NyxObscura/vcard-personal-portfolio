@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Adding better tooltips
 
-_Last updated: 2025-02-18T00:30:49.437Z_
+_Last updated: 2025-02-18T00:30:59.405Z_
