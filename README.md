@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-18T00:04:44.259Z_
+_Last updated: 2025-02-18T00:04:53.877Z_
