@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-18T00:35:29.001Z_
+_Last updated: 2025-02-18T00:35:39.399Z_
